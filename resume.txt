@@ -1,7 +1,8 @@
-Name : 
-DOB  :
-Salary :
-Experience :
+Name : roja
+DOB  : 2001
+Salary : 20 laks
+Experience : 0
 Last working day :
 CTC :
+
 
