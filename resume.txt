@@ -1,0 +1,7 @@
+Name : 
+DOB  :
+Salary :
+Experience :
+Last working day :
+CTC :
+
