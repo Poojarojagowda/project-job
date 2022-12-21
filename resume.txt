@@ -2,7 +2,6 @@ Name : roja
 DOB  : 2001
 Salary : 20 laks
 Experience : 0
-Last working day :
-CTC :
-
-
+Last working day : 0
+Expected CTC : 25LK
+notice period : 90 days
